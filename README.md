@@ -35,5 +35,5 @@ Modèle 3D :
 
 ![Modèle 3D](images/3D_model1.png)
 ![Modèle 3D](images/3D_model2.png)
-![Modèle 3D](images/3D-model_3.png)
+![Modèle 3D](images/3D_model3.png)
 
