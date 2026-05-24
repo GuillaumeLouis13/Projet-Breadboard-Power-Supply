@@ -6297,7 +6297,7 @@
 	(zone
 		(net "GND")
 		(layer "B.Cu")
-		(uuid "d277a9cb-c068-41b8-b30e-db29be5c1fba")
+		(uuid "4d9ecc06-2dbc-4678-b013-db7b4b53b8ff")
 		(name "GND")
 		(hatch edge 0.5)
 		(connect_pads
@@ -6311,8 +6311,8 @@
 		)
 		(polygon
 			(pts
-				(xy 189.95 56.05) (xy 161.65 56.05) (xy 161.65 108.2) (xy 189.95 108.4) (xy 189.8 102.05) (xy 185.4 102)
-				(xy 185.4 62.45) (xy 189.943801 62.454398)
+				(xy 161.55 56) (xy 189.95 56) (xy 189.95 62.55) (xy 185.5 62.55) (xy 185.5 101.95) (xy 190 101.95)
+				(xy 190 108.35) (xy 161.55 108.35)
 			)
 		)
 		(filled_polygon
